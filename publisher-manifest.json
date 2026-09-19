@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "9679e50c5c76b48482aa32b1",
+  "owner": "jmujsmm",
+  "repo": "page-75b57ae40a902b828d41bf98",
+  "title": "天航",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "75b57ae40a902b828d41bf98",
+      "a": "天航",
+      "b": "clash verge免费节点订阅",
+      "entity": "天航",
+      "brand": "天航",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "625415121284e0b30d45deed99662db093cd11c6b571bee1febc0facf1a71cb2",
+      "content": {
+        "primary_entity": "天航",
+        "keyword1": "天航",
+        "keyword2": "clash verge免费节点订阅",
+        "content": {
+          "AI_DESCRIPTION": "，天航提供基础版、旗舰版和团队版三档订阅，分别支持3台、5台和20台设备同时在线，月付15元起，按年付有更多优惠。用户可在手机、电脑和路由器上选择适配客户端，按文档导入订阅后即可使用。",
+          "AI_HERO_SUBTITLE": "天航订阅，设备适配更简单",
+          "AI_HERO_INTRO": "天航为不同设备数量的用户提供分层订阅方案，基础版适合个人轻量使用，旗舰版增加流媒体解锁与专线优化，团队版面向多设备场景。选择套餐后按客户端文档配置订阅即可。",
+          "AI_VISUAL_TITLE": "天航订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐适配不同设备数量",
+          "AI_HIGHLIGHT_2": "旗舰版支持流媒体解锁优化",
+          "AI_HIGHLIGHT_3": "按年付可节省订阅开支",
+          "AI_FEATURES_TITLE": "天航套餐特点",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期三个角度选择天航套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备在线，旗舰版支持5台，团队版支持20台，可按家庭或团队规模选择。",
+          "AI_FEATURE_TITLE_2": "流量与周期搭配",
+          "AI_FEATURE_TEXT_2": "月付套餐提供100GB至1000GB流量，按年付更划算，如基础版年付仅需150元。",
+          "AI_FEATURE_TITLE_3": "订阅配置简单",
+          "AI_FEATURE_TEXT_3": "在客户端文档中获取订阅链接后导入，选择节点即可开始使用，无需复杂设置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "手机、电脑、路由器各有适配客户端，按系统选择后导入天航订阅链接即可。",
+          "AI_PLANS_TITLE": "天航套餐对比",
+          "AI_PLANS_INTRO": "基础版月付15元含100GB流量，旗舰版月付35元含300GB流量并支持专线优化，团队版月付85元含1000GB流量。",
+          "AI_GUIDE_TITLE": "使用天航订阅三步",
+          "AI_GUIDE_INTRO": "从天航套餐选择到客户端配置，按步骤完成即可。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和流量需求选择基础版、旗舰版或团队版，也可考虑按年付方案。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统和客户端支持情况，准备好可用的订阅配置环境。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中导入天航订阅链接，按文档指引选择节点后连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对天航套餐",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选合适的天航套餐，完成订阅配置即可使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "天航套餐可以中途更换档位吗？",
+          "AI_FAQ_ANSWER_1": "套餐档位变更通常可在当前计费周期结束后操作，具体规则以账户内的套餐管理说明为准。如需在周期内调整，可联系客户服务确认是否支持。",
+          "AI_FAQ_QUESTION_2": "一个账号最多能在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出在线设备数量时，可先断开部分设备再连接新的终端。",
+          "AI_FAQ_QUESTION_3": "订阅链接应该在哪些客户端中导入？",
+          "AI_FAQ_ANSWER_3": "可根据设备系统选择对应的订阅客户端，参考天航提供的客户端文档完成导入。不同客户端的操作入口略有差异，以文档中的步骤为准。",
+          "AI_FAQ_QUESTION_4": "月付和年付在价格上有什么区别？",
+          "AI_FAQ_ANSWER_4": "以基础版为例，月付 ¥15/月，年付为 ¥150/年；旗舰版月付 ¥35/月，年付 ¥350/年；团队版月付 ¥85/月，年付 ¥850/年，年付相当于十个月的价格。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量，支持 20 台设备同时在线，并提供 VIP 专属高带宽节点、企业定制路由与专属客户经理服务，适合多人协同办公或小型工作室使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a113e3172ce16b19843eb6fc8ecf1d81150c22340214082f6740894f7833bf1c",
+    "sitemap.xml": "eed356aecefb386449975be8cdc0fe74c3d0987bccfba3891f71ab5d9a2d4f78",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "182206a63e20ff95fd3e0e799f786f5c883880bfd7202e190d2615b6f70d46aa"
+}
